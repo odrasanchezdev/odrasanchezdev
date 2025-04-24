@@ -10,7 +10,7 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
 
 <div align="center" style="display: inline_block;">
   
- <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/website-141a3c?style=for-the-badge)</a>
+ <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/website-071739?style=for-the-badge)</a>
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge)</a>
  
