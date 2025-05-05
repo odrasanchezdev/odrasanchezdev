@@ -13,6 +13,7 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
  <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/website-071739?style=for-the-badge)</a>
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge)</a>
+ <a href="https://x.com/0dra_S0?t=AtS7ZVfs93jllBZ3RxVGQA&s=09">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)</a>
  
 </div>
 
@@ -43,6 +44,12 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
 
 ### 🎯 Proyectos Destacados
 <p>Aquí te comparto algunos de los proyectos con los que he estado trabajando recientemente para reforzar mis fundamentos en programación:</p>
+<br>
+
+- 🐘 <a href="https://github.com/odrasanchezdev/K-BAN">K-BAN</a>
+  - <p> Proyecto de aplicación web con enfoque en Backend del modelo de listas "ToDo" para multiusuario</p>
+  - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp; <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></div>
+
 <br>
 
 - 🐍 <a href="https://github.com/odrasanchezdev/Fundamentos-Python">Fundamentos-Python</a>
