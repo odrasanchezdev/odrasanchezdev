@@ -13,7 +13,7 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
  <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/website-071739?style=for-the-badge)</a>
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge)</a>
- <a href="https://x.com/0dra_S0?t=AtS7ZVfs93jllBZ3RxVGQA&s=09">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)</a>
+ <a href="https://x.com/0dra_S0">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)</a>
  
 </div>
 
