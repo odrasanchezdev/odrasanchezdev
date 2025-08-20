@@ -51,17 +51,17 @@ Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente 
   - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp; <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></div>
 
 <br>
-
+<!--
 - 🐍 <a href="https://github.com/odrasanchezdev/Fundamentos-Python">Fundamentos-Python</a>
   - <p> Colección de proyectos y ejercicios básicos para practicar los fundamentos de Python. Incluye desde operaciones básicas hasta estructuras de control y trabajo con archivos.</p>
   - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp; <img src="https://img.shields.io/badge/VSCode-02458D?style=for-the-badge&logoColor=white" alt="VSCode"/>&nbsp; <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" alt="Spyder IDE"/></div>
-
+-->
 <br>
-
+<!--
 - 🌐 <a href="https://github.com/odrasanchezdev/Fundamentos-JavaScript">Fundamentos-JavaScript</a>
   - <p> Ejercicios prácticos orientados a fortalecer los conceptos clave de JavaScript. Complementados con HTML y CSS para una mejor comprensión de la lógica en el navegador.</p>
   - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></div>
-
+-->
 <br>
 <p>👉 También puedes ver otros proyectos relevantes que tengo <strong>fijados aquí abajo</strong> ⏬.</p>
 
