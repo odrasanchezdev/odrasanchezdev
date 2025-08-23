@@ -1,7 +1,7 @@
 ![Banner de presentacion - Odra Sanchez](/img/banner-presentacion-github.png)
 
 <h2 align="center">¡Hola, soy Odra! 💙</h2>
-💻 Diseñadora y Desarrolladora Web | 📈 Marketing Digital | 🎨 Apasionada por UI/UX  
+<div align="center">💻 Diseñadora y Desarrolladora Web | 📈 Marketing Digital | 🎨 Apasionada por UI/UX  </div>
 
 <br>
 
@@ -73,13 +73,11 @@ Me especializo en diseñar y desarrollar soluciones web que integran tecnología
 
 #### 📈 Marketing Digital  
 SEO · Email Marketing · Google Analytics  
-
+<!--
 <br>
 <div align="center">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrasanchezdev&layout=compact&locale=es&theme=holi" alt="Top Langs" />
-    </div>
-
-
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrasanchezdev&layout=compact&locale=es&theme=holi" alt="Top Langs" />
+</div> -->
 <br>
 
 ### 💼 Proyectos Destacados  
