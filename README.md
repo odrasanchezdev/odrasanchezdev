@@ -1,67 +1,107 @@
-<h1 align="center">✨ ¡ Bienvenido ! ✨</h1>
-<p style = "text-align: justify;">
-Programadora apasionada por la tecnología. Me encanta enfrentar nuevos desafíos, aprender constantemente y crear soluciones prácticas. Disfruto colaborando con otros y aportar ideas innovadoras para hacer que los proyectos sean un éxito.
+![Banner de presentacion - Odra Sanchez](/img/banner-presentacion-github.png)
 
-Mi enfoque se centra en ofrecer una navegación fluida, mejorando continuamente la calidad de cada proyecto, y aplicando una resolución creativa de problemas para garantizar un equilibrio perfecto entre estética y rendimiento.
-</p>
+<h2 align="center">¡Hola, soy Odra! 💙</h2>
+💻 Diseñadora y Desarrolladora Web | 📈 Marketing Digital | 🎨 Apasionada por UI/UX  
 
-***¡Escribeme para colaborar en tu proximo proyecto!*** 👇
+<br>
 
+
+### 👩‍💻 Sobre mí  
+Soy Ingeniera en Sistemas Computacionales con experiencia en **diseño y desarrollo web**, **marketing digital** y **SEO**.
+
+Me especializo en diseñar y desarrollar soluciones web que integran tecnología, diseño centrado en el usuario y visión de negocio.
+
+🌱 Actualmente aprendiendo **React** y profundizando en **UI/UX**.  
+🙌 Me interesa colaborar en proyectos de tecnología, diseño y marketing digital.  
+
+<br>
+
+### 🛠️ Tecnologías & Herramientas  
+
+#### 🌐 Frontend  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss" />
+</div>  
+
+<br>
+
+#### ⚙️ Backend  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
+</div>  
+
+<br>
+
+#### 🧩 Control de versiones y área de trabajo 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
+</div>  
+
+<br>
+
+#### 🎨 Diseño - UI/UX  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
+</div>  
+
+<br>
+
+#### 📚 Documentación & productividad  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex" />
+  <img src="https://img.icons8.com/ios-filled/50/999999/notion.png" height="30" alt="notion" />
+  <img src="https://img.icons8.com/?size=100&id=21827&format=png&color=999999" height="30" alt="markdown" />
+</div>  
+  
+<br>
+
+#### 🐍 Datos 
+<div>
+  <img src="https://img.icons8.com/?size=100&id=11594&format=png&color=999999" height="30" alt="microsoft excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain.svg" height="30" alt="spyder" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter" />
+</div>  
+
+<br>
+
+#### 📈 Marketing Digital  
+SEO · Email Marketing · Google Analytics  
+
+<br>
+<div align="center">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrasanchezdev&layout=compact&locale=es&theme=holi" alt="Top Langs" />
+    </div>
+
+
+<br>
+
+### 💼 Proyectos Destacados  
+
+#### 🐘 [K-BAN](https://github.com/odrasanchezdev/K-BAN)  
+Proyecto de aplicación web con enfoque en Backend del modelo de listas "ToDo" para multiusuario   
+
+<br>
+
+---
+
+### 🌐 ¡La magia comienza con un clic!
 
 <div align="center" style="display: inline_block;">
   
- <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/website-071739?style=for-the-badge)</a>
- <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)</a>
+ <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/servicios-071739?style=for-the-badge)</a>
+ <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f4c5c?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge)</a>
- <a href="https://x.com/0dra_S0">![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)</a>
+  <a href="https://www.behance.net/odrasanchezdev">![Behance](https://img.shields.io/badge/-B&emacr;hance-3a86ff?style=for-the-badge)</a>
  
 </div>
 
 
-<br>
-
-### ⚡ Tecnologías para crear experiencias
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
-    <div>
-      <img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-      <img alt="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-      <img alt="JS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-      <img alt="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-      <img alt="VSCode" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-      <img alt="Py" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-      <img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-    </div>
-    <br>
-    <div>
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrasanchezdev&layout=compact&locale=es&theme=holi" alt="Top Langs" />
-    </div>
-  </div>
-</div>
-
-<br>
-
-### 🎯 Proyectos Destacados
-<p>Aquí te comparto algunos de los proyectos con los que he estado trabajando recientemente para reforzar mis fundamentos en programación:</p>
-<br>
-
-- 🐘 <a href="https://github.com/odrasanchezdev/K-BAN">K-BAN</a>
-  - <p> Proyecto de aplicación web con enfoque en Backend del modelo de listas "ToDo" para multiusuario</p>
-  - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp; <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></div>
-
-<br>
-<!--
-- 🐍 <a href="https://github.com/odrasanchezdev/Fundamentos-Python">Fundamentos-Python</a>
-  - <p> Colección de proyectos y ejercicios básicos para practicar los fundamentos de Python. Incluye desde operaciones básicas hasta estructuras de control y trabajo con archivos.</p>
-  - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp; <img src="https://img.shields.io/badge/VSCode-02458D?style=for-the-badge&logoColor=white" alt="VSCode"/>&nbsp; <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" alt="Spyder IDE"/></div>
--->
-<br>
-<!--
-- 🌐 <a href="https://github.com/odrasanchezdev/Fundamentos-JavaScript">Fundamentos-JavaScript</a>
-  - <p> Ejercicios prácticos orientados a fortalecer los conceptos clave de JavaScript. Complementados con HTML y CSS para una mejor comprensión de la lógica en el navegador.</p>
-  - <div style= "display:inline-block;"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></div>
--->
-<br>
-<p>👉 También puedes ver otros proyectos relevantes que tengo <strong>fijados aquí abajo</strong> ⏬.</p>
-
+---
+*✨ Gracias por visitar mi perfil. Siempre abierta a nuevas colaboraciones y proyectos interesantes.*
