@@ -90,9 +90,10 @@ SEO · Email Marketing · Google Analytics
 <div align="center" style="display: inline_block;">
   
  <a href="https://odrasanchezdev.super.site/">![Mysite](https://img.shields.io/badge/servicios-071739?style=for-the-badge)</a>
- <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f4c5c?style=for-the-badge)</a>
+ <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-F16061?style=for-the-badge)</a>
-  <a href="https://www.behance.net/odrasanchezdev">![Behance](https://img.shields.io/badge/-B&emacr;hance-3a86ff?style=for-the-badge)</a>
+ <a href="https://www.behance.net/odrasanchezdev">![Behance](https://img.shields.io/badge/-B&emacr;hance-1982c4?style=for-the-badge)</a>
+ <a href="https://t.me/odrasanchezdev">![Telegram](https://img.shields.io/badge/-Telegram-219ebc?style=for-the-badge)</a>
  
 </div>
 
