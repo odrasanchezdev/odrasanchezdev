@@ -74,7 +74,7 @@
 <br>
 
 ### Projects & little adventures 💼  
-(*Out of service - for now* 🚧)
+**🟨 [JavaScript: Introductory Exercises](https://github.com/odrasanchezdev/javascript-essentials)** - A collection of projects and basic exercises for practicing JavaScript fundamentals.
 
 <br>
 
