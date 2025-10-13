@@ -76,6 +76,8 @@
 ### Projects & little adventures 💼  
 **🟨 [JavaScript: Introductory Exercises](https://github.com/odrasanchezdev/javascript-essentials)** - A collection of projects and basic exercises for practicing JavaScript fundamentals.
 
+**🐘 [PHP: Introductory Exercises](https://github.com/odrasanchezdev/php-essentials)** - A collection of projects and basic exercises for practicing PHP fundamentals.
+
 <br>
 
 ---
