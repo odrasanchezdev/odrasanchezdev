@@ -15,10 +15,10 @@
 > 
 > Currently, I’m working as a freelancer, but I’m always open to collaborating on exciting projects ✅
 > 
-> 🌱 Learning *TypeScript* and diving deeper into *UI/UX*
-> ☕ Fueled by coffee (and chocolate!)
-> 📌 Passionate about supporting small businesses and local entrepreneurs
-> 
+> * 🌱 Learning *TypeScript* and diving deeper into *UI/UX*
+> * ☕ Fueled by coffee (and chocolate!)
+> * 📌 Passionate about supporting small businesses and local entrepreneurs
+>
 > 🎃 *Happy Halloween!*
 
 <br>
