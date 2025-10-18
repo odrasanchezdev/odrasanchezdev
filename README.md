@@ -80,6 +80,8 @@
 
 **🐘 [K-BAN](https://github.com/odrasanchezdev/K-BAN)** - Web application project focused on the backend of the “ToDo” list model for multiple users.
 
+**📗 [EXCEL Basics](https://github.com/odrasanchezdev/excel-basics)** - The training focuses on the fundamentals of using Microsoft Excel.
+
 <br>
 
 ---
