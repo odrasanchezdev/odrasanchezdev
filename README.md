@@ -19,7 +19,7 @@
 > * ☕ Fueled by coffee (and chocolate!)
 > * 📌 Passionate about supporting small businesses and local entrepreneurs
 >
-> 🎃 *Happy Halloween!*
+> 💀💐 *Celebrando el Día de muertos - MX*
 
 <br>
 
