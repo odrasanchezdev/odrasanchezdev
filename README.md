@@ -19,7 +19,7 @@
 > * ☕ Fueled by coffee (and chocolate!)
 > * 📌 Passionate about supporting small businesses and local entrepreneurs
 >
-> 💀💐 *Celebrando el Día de muertos - MX*
+> 🤠 *Conmemoración de la Revolución Mexicana - MX*
 
 <br>
 
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
@@ -45,6 +46,7 @@
   <img src="https://img.icons8.com/ios-filled/50/999999/notion.png" height="30" alt="notion" />
   <img src="https://img.icons8.com/?size=100&id=21827&format=png&color=999999" height="30" alt="markdown" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="30" alt="jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="30" alt="slack" />
 </div>  
 
 <br>
