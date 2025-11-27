@@ -1,4 +1,4 @@
-![Banner de presentacion - Odra Sanchez](assets/img/banner-presentacion-github.png)
+![Banner de presentacion - Odra Sanchez](assets/img/Odra-Sanchez_Banner-Github.png)
 
 <h2 align="center">Hey! Odra here 💙</h2>
 <div align="center">Full-stack developer crafting interactive web experiences with a touch of creativity ✨</div>
