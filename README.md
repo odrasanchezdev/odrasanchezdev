@@ -15,11 +15,17 @@
 > 
 > Currently, I’m working as a freelancer, but I’m always open to collaborating on exciting projects ✅
 > 
-> * 🌱 Learning *TypeScript* and diving deeper into *UI/UX*
+> * 🌱 Current learning stack:
+>     - 🎨 UI Patterns  
+>     - 🔍 UX Research  
+>     - 📐 Layout & Grid mastery  
+>     - ☁  AWS Cloud  
+>     - 🐍 Python
+>     - 💾 SQL / Data Analyst
+>     - 📊 Power BI / Dashboards  
 > * ☕ Fueled by coffee (and chocolate!)
-> * 📌 Passionate about supporting small businesses and local entrepreneurs
 >
-> 🤠 *Conmemoración de la Revolución Mexicana - MX*
+> 🎄🎅🤶 *Iiiiiiiiit's Timeeeeeeee*
 
 <br>
 
@@ -90,7 +96,7 @@
 
 ### Ping Me, I’m Friendly! 📬
 
-<small>I'm sorry, but my social media accounts are in Spanish for my primary client base. However, you can write to me in English. I believe most of my page can be translated for you.</small>
+<small>I'm sorry 🥺, but my social media accounts are in Spanish for my primary client base. However, you can write to me in English. I believe most of my page can be translated for you.</small>
 
 
 <div align="center" style="display: inline_block;">
