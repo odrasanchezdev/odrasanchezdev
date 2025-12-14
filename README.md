@@ -82,13 +82,15 @@
 <br>
 
 ### Projects & little adventures 💼  
+**🐘 [K-BAN](https://github.com/odrasanchezdev/K-BAN)** - Web application project focused on the backend of the “ToDo” list model for multiple users.
+
+**🐍 [PYTHON: Ejercicios prácticos](https://github.com/odrasanchezdev/python-fundamentos-didacticos)** - A collection of exercises for beginners to learn Python. Examples with step-by-step explanations in Spanish.
+
+**📗 [EXCEL: Subiendo de nivel](https://github.com/odrasanchezdev/excel-subiendo-el-nivel)** - Basic exercises and a designed template reinforce the fundamentals of data management and form generation. Comments and explanations are in Spanish.
+
 **🟨 [JavaScript: Introductory Exercises](https://github.com/odrasanchezdev/javascript-essentials)** - A collection of projects and basic exercises for practicing JavaScript fundamentals.
 
 **🐘 [PHP: Introductory Exercises](https://github.com/odrasanchezdev/php-essentials)** - A collection of projects and basic exercises for practicing PHP fundamentals.
-
-**🐘 [K-BAN](https://github.com/odrasanchezdev/K-BAN)** - Web application project focused on the backend of the “ToDo” list model for multiple users.
-
-**📗 [EXCEL Basics](https://github.com/odrasanchezdev/excel-basics)** - The training focuses on the fundamentals of using Microsoft Excel.
 
 <br>
 
