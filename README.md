@@ -118,7 +118,7 @@
 
 <br>
 
-🐘 [PHP: Introducción con practicas](https://github.com/odrasanchezdev/php-essentials)
+🐘 [PHP: Introducción con practicas](https://github.com/odrasanchezdev/php-backend-basico)
 <div style="display: inline_block;">
 <img src="https://img.shields.io/badge/Challenge-Low-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Language-Spanish-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Status-On%20hiatus-E3C39D?style=for-the-badge" height="20" />
 </div>
