@@ -25,7 +25,7 @@
 >     - 📊 Power BI / Dashboards  
 > * ☕ Fueled by coffee (and chocolate!)
 >
-> 🎄🎅🤶 *Iiiiiiiiit's Timeeeeeeee*
+> *🎆🎆 Happy New Year - 2026. Mis mejores deseos para este año 🍀*
 
 <br>
 
@@ -81,16 +81,47 @@
 
 <br>
 
-### Projects & little adventures 💼  
+### Projects: The best of my skills 🎯
+
 **🐘 [K-BAN](https://github.com/odrasanchezdev/K-BAN)** - Web application project focused on the backend of the “ToDo” list model for multiple users.
 
-**🐍 [PYTHON: Ejercicios prácticos](https://github.com/odrasanchezdev/python-fundamentos-didacticos)** - A collection of exercises for beginners to learn Python. Examples with step-by-step explanations in Spanish.
+<br>
 
-**📗 [EXCEL: Subiendo de nivel](https://github.com/odrasanchezdev/excel-subiendo-el-nivel)** - Basic exercises and a designed template reinforce the fundamentals of data management and form generation. Comments and explanations are in Spanish.
+#### Building & Learning: Course exercises and challenges 🛠️
 
-**🟨 [JavaScript: Introductory Exercises](https://github.com/odrasanchezdev/javascript-essentials)** - A collection of projects and basic exercises for practicing JavaScript fundamentals.
 
-**🐘 [PHP: Introductory Exercises](https://github.com/odrasanchezdev/php-essentials)** - A collection of projects and basic exercises for practicing PHP fundamentals.
+🐍 [PYTHON: Ejercicios prácticos](https://github.com/odrasanchezdev/python-fundamentos-didacticos)
+<div style="display: inline_block;">
+<img src="https://img.shields.io/badge/Challenge-Low-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Language-Spanish-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Status-Updated-E3C39D?style=for-the-badge" height="20" />
+</div>
+
+<br>
+
+📗 [EXCEL: Subiendo el nivel](https://github.com/odrasanchezdev/excel-subiendo-el-nivel)
+<div style="display: inline_block;">
+<img src="https://img.shields.io/badge/Challenge-Low%20/%20Mid-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Language-Spanish-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Status-Under%20construction-E3C39D?style=for-the-badge" height="20" />
+</div>
+
+<br>
+
+🌐 [HTML y CSS: Diseño y desarrollo](https://github.com/odrasanchezdev/html-css-desarrollo_y_diseno)
+<div style="display: inline_block;">
+<img src="https://img.shields.io/badge/Challenge-Low-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Language-Spanish-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Status-Under%20construction-E3C39D?style=for-the-badge" height="20" />
+</div>
+
+<br>
+
+🟨 [JavaScript: Introductory Exercises](https://github.com/odrasanchezdev/javascript-essentials)
+<div style="display: inline_block;">
+<img src="https://img.shields.io/badge/Challenge-Low-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Status-On%20hiatus-E3C39D?style=for-the-badge" height="20" />
+</div>
+
+<br>
+
+🐘 [PHP: Introducción con practicas](https://github.com/odrasanchezdev/php-essentials)
+<div style="display: inline_block;">
+<img src="https://img.shields.io/badge/Challenge-Low-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Language-Spanish-7389A6?style=for-the-badge" height="20" /> <img src="https://img.shields.io/badge/Status-On%20hiatus-E3C39D?style=for-the-badge" height="20" />
+</div>
 
 <br>
 
