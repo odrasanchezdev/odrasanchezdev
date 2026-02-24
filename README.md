@@ -19,18 +19,19 @@
 >     - 🎨 UI Patterns  
 >     - 🔍 UX Research  
 >     - 📐 Layout & Grid mastery  
->     - ☁  AWS Cloud  
->     - 🐍 Python
->     - 💾 SQL / Data Analyst
->     - 📊 Power BI / Dashboards  
+>     - 💾 SQL
+>     - 🟦 Typescript
+>     - 🐘 Laravel
+>     - ⚛ React
 > * ☕ Fueled by coffee (and chocolate!)
 >
-> *🎆🎆 Happy New Year - 2026. Mis mejores deseos para este año 🍀*
+> *✅ ¡OpenToWork!*
 
 <br>
 
 ### The art & tools of My code 👩‍🎨
-**⚙️ Frontend & Backend**
+
+#### ⚙️ Frontend & Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
@@ -39,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30" alt="laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="30" alt="jquery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" height="30" alt="swiper" />
@@ -46,7 +48,17 @@
 
 <br>
 
-**📚 Docs & productivity**
+#### 🧩 Support Tech
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="30" alt="netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
+</div> 
+
+<br>
+
+#### 📚 Docs & productivity
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex" />
   <img src="https://img.icons8.com/ios-filled/50/999999/notion.png" height="30" alt="notion" />
@@ -56,28 +68,18 @@
 </div>  
 
 <br>
-
-**🐍 Data managment** 
-<div>
-  <img src="https://img.icons8.com/?size=100&id=11594&format=png&color=999999" height="30" alt="microsoft excel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain.svg" height="30" alt="spyder" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="30" alt="kaggle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="r" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio" />
-</div>  
-
 <br>
 
-**🧩 Add-ons** 
+*🐍 Hobby languages*
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="30" alt="netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
-</div> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" height="20" alt="microsoft excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" height="20" alt="python" />
+  <img src="https://img.shields.io/badge/pandas-140152?style=for-the-badge" height="20" alt="pandas" />
+  <img src="https://img.shields.io/badge/spyder-EA1D2C?style=for-the-badge" height="20" alt="spyder" />
+  <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge" height="20" alt="jupyter" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge" height="20" alt="kaggle" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge" height="20" alt="rstudio" />
+</div>  
 
 <br>
 
