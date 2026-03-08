@@ -31,7 +31,7 @@
 ## The art & tools of My code 👩‍🎨
 
 #### 💼 Core Stack
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,php,laravel,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,php,mysql,git" />
 
 ##### 🎨 Frontend Expertise
 - Responsive Design
