@@ -1,30 +1,32 @@
 <h1 align="center">Odra Sanchez</h2>
-<div align="center"> Fullstack Software Engineer | React · Laravel · MySQL | Crafting interactive web experiences with a touch of creativity ✨</div>
+<div align="center"> React · JavaScript · PHP | Crafting interactive web experiences with a touch of creativity ✨</div>
 &nbsp;
 
 <div align="center" style="display: inline_block;">
   
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
- <a href="https://odrasanchezdev.super.site/">![Servicios/Services](https://img.shields.io/badge/servicios-071739?style=for-the-badge)</a>
+ <a href="https://urlyte.com/1bfyt">![LinkTree](https://img.shields.io/badge/LinkTree-071739?style=for-the-badge)</a>
 </div>
 
 <br>
 
 
 ## Me, code & coffee ☕
-> Fullstack developer specialized in Computer Systems and found my passion in **web design and development, SEO, and UI/UX**. I love creating web solutions with clean architecture, relational databases, user-centered interfaces and a touch of business vision.
+> I'm a Computer Systems Engineer focused on web development and UX-driven interfaces. I build clean, user-friendly web solutions that emphasize performance, accessibility, and real user behavior.
+>
+> Right now I'm working on getting better at SEO, UI/UX, and modern front-end technologies.
 > 
-> Currently working as a _freelance developer_, collaborating on web projects from concept to deployment.
+> Currently, I work as a _freelance developer_, collaborating on web projects from concept to deployment.
 > 
 > * Learning stack:
->     - UX Research  
+>     - ✅ UX Research  
 >     - Layout & Grid mastery  
 >     - SQL
 >     - Typescript
 >     - Laravel
 >     - React
 >
-> *✅ ¡OpenToWork!*
+> *I'm taking my time—I'm working on it! 🐢*
 
 <br>
 
@@ -64,7 +66,7 @@ Thank you for your visit. I'm always open to new and challenging collaborations 
 <div align="center" style="display: inline_block;">
   
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
- <a href="https://odrasanchezdev.super.site/">![Servicios](https://img.shields.io/badge/servicios-071739?style=for-the-badge)</a>
+ <a href="https://urlyte.com/1bfyt">![LinkTree](https://img.shields.io/badge/LinkTree-071739?style=for-the-badge)</a>
  <a href="https://www.instagram.com/odrasanchezdev/">![Instagram](https://img.shields.io/badge/-Instagram-9f175b?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-f45b69?style=for-the-badge)</a>
  
