@@ -21,9 +21,8 @@
 > * Learning stack:
 >     - ✅ UX Research  
 >     - Layout & Grid mastery  
->     - SQL
+>     - 🔄 SQL
 >     - Typescript
->     - Laravel
 >     - React
 >
 > *I'm taking my time—I'm working on it! 🐢*
