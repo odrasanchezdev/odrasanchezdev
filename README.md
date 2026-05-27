@@ -1,5 +1,5 @@
-<h1 align="center">Odra Sanchez</h2>
-<div align="center"> React · JavaScript · PHP | Crafting interactive web experiences with a touch of creativity ✨</div>
+<h1 align="center">Odra Sanchez</h1>
+<div align="center"> Frontend-focused Fullstack Developer · React · JavaScript · PHP </div>
 &nbsp;
 
 <div align="center" style="display: inline_block;">
@@ -12,53 +12,57 @@
 
 
 ## Me, code & coffee ☕
-> I'm a Computer Systems Engineer focused on web development and UX-driven interfaces. I build clean, user-friendly web solutions that emphasize performance, accessibility, and real user behavior.
+> I'm a Fullstack Web Developer with a strong frontend focus, specialized in building responsive, user-centered web experiences.
 >
-> Right now I'm working on getting better at SEO, UI/UX, and modern front-end technologies.
-> 
-> Currently, I work as a _freelance developer_, collaborating on web projects from concept to deployment.
-> 
-> * Learning stack:
->     - ✅ UX Research  
->     - Layout & Grid mastery  
->     - 🔄 SQL
->     - Typescript
->     - React
+> My work combines development, UX thinking, SEO, and behavioral analysis to create digital products that are both functional and conversion-oriented.
 >
-> *I'm taking my time—I'm working on it! 🐢*
+> I've worked on end-to-end web projects using JavaScript, React, PHP, SQL, and modern UI tools — from interface design to deployment and optimization.
+>
+> Currently interested in:
+>
+> - Frontend Architecture
+> - UX-driven development
+> - Technical SEO
+> - Scalable UI systems
+> - Performance optimization
 
 <br>
 
-## The art & tools of My code 👩‍🎨
-
+## Tech Stack & Workflow 👩‍💻
 #### 💼 Core Stack
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,php,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,git" height="40" />
 
-##### 🎨 Frontend Expertise
-- Responsive Design
-- UI Patterns
-- Performance Optimization
+
+##### 🎨 Frontend
+- Responsive interfaces
+- UI/UX implementation
+- Accessibility & performance
+- SEO-oriented development
+- Component-based architecture
 
 
 ##### ⚙ Tools
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,tailwindcss,netlify,jquery,markdown,notion,jira,slack" height="30" />
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,tailwindcss,netlify,jquery,markdown,latex,notion" height="30" />
 
 - Swiper
-- LaTexT
 - Jira
 - Slack
 
 <br>
 
 ## Projects: The best of my skills 🎯
-##### [K-BAN](https://github.com/odrasanchezdev/K-BAN) — Fullstack application built with Js, PHP & MySQL
-- Authentication system
-- CRUD operations
-- MVC architecture
+##### [K-BAN](https://github.com/odrasanchezdev/K-BAN) — Task management web application
+_Fullstack application built with JavaScript, PHP & MySQL_
+
+- User authentication & session management
+- Kanban-style task organization
+- MVC architecture implementation
+- Responsive interface focused on usability
+- CRUD operations with relational database integration
 
 <br>
 
-### Ping Me, I’m Friendly! 📬
+## Open to collaborations & web projects 📬
 
 Thank you for your visit. I'm always open to new and challenging collaborations and projects.
 
@@ -68,5 +72,4 @@ Thank you for your visit. I'm always open to new and challenging collaborations 
  <a href="https://urlyte.com/1bfyt">![LinkTree](https://img.shields.io/badge/LinkTree-071739?style=for-the-badge)</a>
  <a href="https://www.instagram.com/odrasanchezdev/">![Instagram](https://img.shields.io/badge/-Instagram-9f175b?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-f45b69?style=for-the-badge)</a>
- 
-</div>
+ </div>
