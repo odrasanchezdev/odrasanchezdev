@@ -51,14 +51,22 @@
 <br>
 
 ## Projects: The best of my skills 🎯
-##### [K-BAN](https://github.com/odrasanchezdev/K-BAN) — Task management web application
+##### [Search engine](https://github.com/odrasanchezdev/project-frontend-motor-busqueda) — Google interface for educational purposes
+_Frontend application built with HTML5, CSS3 & UI/UX_
+
+- Visual fidelity
+- Responsive design
+- Use of components
+- Developed for educational purposes
+
+<!-- ##### [K-BAN](https://github.com/odrasanchezdev/project-frontend-motor-busqueda) — Task management web application
 _Fullstack application built with JavaScript, PHP & MySQL_
 
 - User authentication & session management
 - Kanban-style task organization
 - MVC architecture implementation
 - Responsive interface focused on usability
-- CRUD operations with relational database integration
+- CRUD operations with relational database integration -->
 
 <br>
 
