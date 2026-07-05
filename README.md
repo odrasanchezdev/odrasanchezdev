@@ -59,14 +59,14 @@ _Frontend application built with HTML5, CSS3 & UI/UX_
 - Use of components
 - Developed for educational purposes
 
-<!-- ##### [K-BAN](https://github.com/odrasanchezdev/project-frontend-motor-busqueda) — Task management web application
+##### [Do-Kan](https://github.com/odrasanchezdev/project-backend-dokan) — Task management web application
 _Fullstack application built with JavaScript, PHP & MySQL_
 
 - User authentication & session management
 - Kanban-style task organization
 - MVC architecture implementation
 - Responsive interface focused on usability
-- CRUD operations with relational database integration -->
+- CRUD operations with relational database integration 
 
 <br>
 
