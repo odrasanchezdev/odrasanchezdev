@@ -63,7 +63,7 @@ _Frontend application built with HTML5, CSS3 & UI/UX_
 _Fullstack application built with JavaScript, PHP & MySQL_
 
 - User authentication & session management
-- Kanban-style task organization
+- To-Do list-type task organization
 - MVC architecture implementation
 - Responsive interface focused on usability
 - CRUD operations with relational database integration 
