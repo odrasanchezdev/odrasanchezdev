@@ -42,7 +42,7 @@
 
 
 ##### ⚙ Tools
-<img src="https://skillicons.dev/icons?i=github,vscode,figma,tailwindcss,netlify,jquery,markdown,latex,notion" height="30" />
+<img src="https://skillicons.dev/icons?i=github,vscode,figma,tailwindcss,netlify,markdown,latex,notion" height="30" />
 
 - Swiper
 - Jira
