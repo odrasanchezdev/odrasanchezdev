@@ -1,30 +1,27 @@
 <h1 align="center">Odra Sanchez</h1>
-<div align="center"> Frontend-focused Fullstack Developer · React · JavaScript · PHP </div>
+<div align="center"> Web Developer | Frontend • Backend • UI/UX </div>
 &nbsp;
 
 <div align="center" style="display: inline_block;">
   
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
- <a href="https://odrasanchezdev-presentacion.my.canva.site/odra-sanchez-dev-linktree">![LinkTree](https://img.shields.io/badge/LinkTree-071739?style=for-the-badge)</a>
+ <a href="https://odrasanchezdev.netlify.app/">![Portfolio](https://img.shields.io/badge/Portfolio-071739?style=for-the-badge)</a>
 </div>
 
 <br>
 
-
-## Me, code & coffee ☕
-> I'm a Fullstack Web Developer with a strong frontend focus, specialized in building responsive, user-centered web experiences.
->
-> My work combines development, UX thinking, SEO, and behavioral analysis to create digital products that are both functional and conversion-oriented.
->
-> I've worked on end-to-end web projects using JavaScript, React, PHP, SQL, and modern UI tools — from interface design to deployment and optimization.
->
-> Currently interested in:
->
-> - Frontend Architecture
-> - UX-driven development
+> I'm a Full Stack Web Developer with a strong frontend focus, passionate about building responsive, accessible, and user-centered web applications.
+> 
+> I enjoy transforming ideas into functional digital products by combining development, UX principles, SEO, and performance optimization.
+> 
+> My experience includes building web applications with JavaScript, React, PHP, SQL, HTML, CSS, Tailwind CSS, and Bootstrap, covering everything from interface development to deployment.
+> 
+> Currently learning and improving:
+> - React & TypeScript
+> - Backend development
+> - Web Performance
 > - Technical SEO
-> - Scalable UI systems
-> - Performance optimization
+> - UI/UX
 
 <br>
 
@@ -77,7 +74,7 @@ Thank you for your visit. I'm always open to new and challenging collaborations 
 <div align="center" style="display: inline_block;">
   
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
- <a href="https://odrasanchezdev-presentacion.my.canva.site/odra-sanchez-dev-linktree">![LinkTree](https://img.shields.io/badge/LinkTree-071739?style=for-the-badge)</a>
+ <a href="https://odrasanchezdev.netlify.app/">![Portfolio](https://img.shields.io/badge/Portfolio-071739?style=for-the-badge)</a>
  <a href="https://www.instagram.com/odrasanchezdev/">![Instagram](https://img.shields.io/badge/-Instagram-9f175b?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-f45b69?style=for-the-badge)</a>
  </div>
